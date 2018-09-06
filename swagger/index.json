@@ -1,0 +1,9 @@
+{
+  "/": {
+    "get": {
+      "description": "根目录",
+      "tag": "/home",
+      "summary": "get homePage"
+    }
+  }
+}
